@@ -1,0 +1,18 @@
+- all primes stem from 5, 7, 11 and 13 (on base 12)
+- all semi-primes (from the base 12 prime columns) "sandwich" all primes on those base 12 columns
+- likely all non primes on the base 12 prime columns are semi-primes
+
+
+- all primes are those columns minus the numbers that are divisible by 5,7,11,13 and minus the numbers that are square of primes (semiprimes)
+
+- the key appears to be in understanding perfect squares (289 which is square of a prime) and the remaining misterious semiprimes
+like 23987 which can only be divisible by 1411 (a semi-prime with only one division option) and 289
+(23953 and 1409 too)
+-Maybe i should focus on outliers that have multiple solutions? Those point to other outliers apparently
+
+- every wrong number can be found using twin primes?
+
+- Maybe primes are related to the amount of divisors every number has instead of relying on the multiplication process itself
+
+
+https://repositorio.ufc.br/bitstream/riufc/28891/3/2017_dis_rpandrade.pdf

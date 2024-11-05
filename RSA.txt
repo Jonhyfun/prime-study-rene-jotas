@@ -1,0 +1,11 @@
+chave publica = 2 numeros, um multiplicando e um módulo
+por exemplo, 17 e 3120
+
+isso resulta em
+
+17 * d = 1 (mod 3120)
+
+onde d é um numero que multiplicado por 17 e %(modulo) de 3120 resulta em 1
+
+esse número é o tal dificil de ser encontrada CHAVE PRIVADA!
+(nesse caso é 2753)

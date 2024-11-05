@@ -1,0 +1,4 @@
+for a prime in col 7 (mersenne) with a p from col 5
+
+the position in col 7 will always be a number that ends with 3 (this was actually the bit shift effect, adding 10 to the left)
+https://www.wolframalpha.com/input?i=7%2B12+*+%28x%E2%88%921%29+%3D+2%5E%285+%2B+12+*+%28y+-1%29%29+-+1

@@ -1,0 +1,19 @@
+19 = prime (n has prime) base prime
+31 = prime (n has not prime)
+43 = prime (n has prime) base prime
+55 = not prime (n has not prime)
+
+67 = prime (n has prime) base prime
+79 = prime (n has prime) base prime
+91 = not prime (n has not prime)
+103 = prime (n has prime)
+
+115 = not prime (n has prime)
+127 = prime (n has not prime)
+139 = prime (n has prime)
+151 = prime (n has not prime)
+
+163 = prime (n has not prime)
+175 = not prime (n has prime)
+187 = not prime (n has prime)
+199 = prime (n has not prime)

@@ -1,0 +1,7 @@
+26*4 = 59 primes (including incorrect rare semi-primes)
+260*4 = 568 primes (including incorrect rare semi-primes)
+2600*4 = 5724 primes (including incorrect rare semi-primes)
+26000*4 = 57440 primes (including incorrect rare semi-primes)
+
+
+"26 * 4" is 26 generated numbers on base 12 for each collumn (5, 7, 11, 13)

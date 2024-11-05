@@ -1,0 +1,120 @@
+5 = f(n)=12n−7
+7 = f(n)=12n−5
+11 = f(n)=12n−1
+13 = f(n)=12n+1
+
+
+7 + 12 * (n - 1) = Power[2,p] - 1
+
+equação pra achar um numero da coluna sete = equação de mersenne
+
+
+Todos os mersennes estão na coluna 7?
+
+2^3 - 1 = linha 1 (o próprio 7)
+2^5 - 1 = linha 3
+2^7 - 1 = linha 11
+2^13 - 1 = linha 683
+2^17 - 1 = linha 10923
+2^19 - 1 = linha 43691
+
+
+
+Sobre a coluna do 11, qualquer número que não faz parte retorna ele+1/12 (ou ele-1/12 sendo menor que 11)
+
+
+
+Divisor de alguns expoentes primos de mersenne quando colocados na equação de econtrar o N(linha) com cada primo pai
+
+74207281
+5 = /3
+7 = /2
+11 = /6
+13 = /1
+
+
+77232917
+5 = /1
+7 = /6
+11 = /2
+13 = /3
+
+82589933
+5 = /1
+7 = /6
+11 = /2
+13 = /3
+
+
+(update, não tem coluna 13, é coluna 1)
+
+1
+1 = /1
+5 = /3
+7 = /2
+11 = /6
+
+
+5
+1 = /3
+5 = /1
+7 = /6
+11 = /2
+
+7
+1 = /2
+5 = /6
+7 = /1
+11 = /3
+
+11
+1 = /6
+5 = /2
+7 = /3
+11 = /1
+
+
+
+a sequencia 5 e 11 se conversam, as sequencias 7 e 13 também
+(sempre resulta em 1, 3, 5, 7... (2n-1) sobre 2)
+3, 5 ,7 ,9, 11, 13, 15
+
+Então se você procurar o 11 na equação do 5, você vai ter 3/2
+que é o primeiro elemento da linha 11
+
+assim como 23 na equação do 5, retorna 5/2
+
+
+Essa relação se aplica por divisor.
+se você procurar 11 na equação do 5, vai dar 5/6, assim como o 23 vai dar 11/6
+
+11 - 6 = 5
+
+Ou seja: (x + 1)/divisor = indice na coluna relacionada (mas como saber qual divisor representa qual relação de coluna?)
+
+
+
+
+x + 12 * (y - 1) = p onde p é o primo
+
+resulta na integer solution =
+
+x = 12n + coluna
+y = linha - n
+
+
+menos no 13, onde a coluna volta como 1 e a linha volta com + 1
+
+
+cada coluna tem um multiplo de 5, que segue uma regra e todos tem uma regra multipla de 5
+
+na coluna 1, a cada 5 colunas apartir do 3, tem um multiplo de 5. (na 3 é 25 na 8 é 85)
+na coluna 11 também.
+
+na coluna 5, de 5 em 5 tem multiplo de 5 apartir do 1, (na 1 é 5, na 6 é 65, e na 11 é 125)
+na coluna 7 é de 5 em 5 apartir do "0" (na 5 é 55, na 10 é 115)
+
+na coluna 5 do 18 pra frente, de 11 em 11 não são primos?
+parece que na coluna 5, de 5 em 5, de 7 em 7 e de 11 em 11, são não primos, coincidencia?
+(parece que isso ocorre em todas as colunas, mas cada uma tem um inicio diferente)
+

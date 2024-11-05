@@ -1,0 +1,2 @@
+testar os wolfram alpha convertendo os numeros pra notação cientifica
+analisar em cada mersenne qual coluna que o p ta, e alguma relação da coluna 5

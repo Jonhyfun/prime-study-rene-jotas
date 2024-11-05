@@ -1,0 +1,1 @@
+println("$(parse(BigInt, ARGS[1]) + 12 * (parse(BigInt, ARGS[2]) - 1))")

@@ -1,0 +1,3 @@
+[submodule "react-prime-compare/prime-compare"]
+	path = react-prime-compare/prime-compare
+	url = https://github.com/Jonhyfun/prime-numbers.git
